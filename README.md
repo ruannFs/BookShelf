@@ -46,6 +46,7 @@ O aplicativo permite:
 ## 📸 Captura do app
 
 <img width="209" height="413" alt="Captura de tela 2026-06-21 160645" src="https://github.com/user-attachments/assets/fdfa8d68-46db-4c21-ae05-963af46516f1" />
+<img width="205" height="411" alt="Captura de tela 2026-06-21 160716" src="https://github.com/user-attachments/assets/795dc9b4-2739-4a43-9ec1-62c3e01ecb72" />
 
 
 ---

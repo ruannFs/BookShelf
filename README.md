@@ -5,8 +5,8 @@ BookShelf é um aplicativo minimalista para catalogar livros e acompanhar sua le
 
 ## 👤 Informações do aluno
 
-- **Nome:** SEU NOME AQUI
-- **Matrícula:** SUA MATRÍCULA AQUI
+- **Nome:** Ruann Freitas da Silva
+- **Matrícula:** 
 - **Data de entrega:** 21/06/2026
 
 ---
@@ -45,7 +45,8 @@ O aplicativo permite:
 
 ## 📸 Captura do app
 
-![Tela do BookShelf](Captura-de-tela-2026-06-21-160645.jpg)
+<img width="209" height="413" alt="Captura de tela 2026-06-21 160645" src="https://github.com/user-attachments/assets/fdfa8d68-46db-4c21-ae05-963af46516f1" />
+
 
 ---
 
